@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Dip (7.0.1)
+  - Kingfisher (5.6.0)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Result (4.1.0)
+  - RxSwift (4.5.0)
+  - SwiftLint (0.33.0)
+
+DEPENDENCIES:
+  - Dip
+  - Kingfisher
+  - Moya/RxSwift (~> 13.0)
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Dip
+    - Kingfisher
+    - Moya
+    - Result
+    - RxSwift
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  Kingfisher: 1a50df6880a60bae26f3e21a0df3d17b892f5e0b
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SwiftLint: fed9c66336e41fc74dc48a73678380718f0c8b0e
+
+PODFILE CHECKSUM: 00c73d15c7036cdbe5375d9db8c5d531c2638b5b
+
+COCOAPODS: 1.5.3
